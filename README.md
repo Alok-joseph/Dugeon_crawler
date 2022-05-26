@@ -3,4 +3,4 @@
 
 This is a puzzle dungeon crawler game build in godot game engine
 
-## R
+## Run
